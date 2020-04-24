@@ -1,3 +1,3 @@
-#hai i am nithesh ..
-i am basically learner and researcher ..
-i love to code
+Hai i am nithesh ..
+i like to learn new things ..and 
+in this platform you can learn python basics and important rules
