@@ -1,0 +1,24 @@
+# Python program to print list 
+# using for loop 
+a = [1, 2, 3, 4, 5] 
+
+# printing the list using loop 
+for x in range(len(a)): 
+	print(x) 
+#here we check the  x(index) values .is in the range 
+#it can print the index values 
+#instead of print(x) now you use print(a[x])
+it can access a values and print the result
+#a = [1, 2, 3, 4, 5] 
+
+# printing the list using loop 
+for x in range(len(a)): 
+	print(a[2])
+#now the val of a[2] can be printed until the index values reaches the limit  or
+until the for x in range(len(a)):  false
+#output
+3
+3
+3
+3
+3(base on len of list)
